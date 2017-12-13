@@ -1,3 +1,3 @@
 #HOVEREFFECT
 
-![Slider](/asset/HoverGif.gif)
+![Hover](/asset/HoverGif.gif)
